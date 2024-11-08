@@ -1,5 +1,3 @@
-# docker_flask_homework
-
 ## Part One: Dockerizing a Single Flask Application
 
 ### Set-up
